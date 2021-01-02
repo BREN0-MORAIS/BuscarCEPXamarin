@@ -1,0 +1,14 @@
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\bin\Debug\netstandard2.0\ConsultarCEPXamarin.deps.json
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\bin\Debug\netstandard2.0\ConsultarCEPXamarin.dll
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\bin\Debug\netstandard2.0\ref\ConsultarCEPXamarin.dll
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\bin\Debug\netstandard2.0\ConsultarCEPXamarin.pdb
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\ConsultarCEPXamarin.csprojAssemblyReference.cache
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\ConsultarCEPXamarin.AssemblyInfoInputs.cache
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\ConsultarCEPXamarin.AssemblyInfo.cs
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\ConsultarCEPXamarin.csproj.CoreCompileInputs.cache
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\ConsultarCEPXamarin.dll
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\ref\ConsultarCEPXamarin.dll
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin\obj\Debug\netstandard2.0\ConsultarCEPXamarin.pdb

@@ -1,0 +1,1 @@
+C:\Users\55659\source\repos\ConsultarCEPXamarin\ConsultarCEPXamarin\ConsultarCEPXamarin.UWP\ConsultarCEPXamarin.UWP.csproj;x86
