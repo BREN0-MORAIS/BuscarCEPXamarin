@@ -1,5 +1,5 @@
 # BuscarCEPXamarin
-<b>📄Descrição: </b>Desenvolver Controles Viuais em xamarin
+<b>📄Descrição: </b>Desenvolver um app Utilizando Xamarin para buscar Cep
 <h2>:checkered_flag:Tecnologias Utilizadas</h2>
 <br>
 <ul>
